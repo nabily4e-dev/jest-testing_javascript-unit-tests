@@ -1,0 +1,13 @@
+{
+  "name": "jest-testing_javascript-unit-tests",
+  "version": "1.0.0",
+  "description": "A simple project to demonstrate how to write unit tests in JavaScript using Jest",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest ---coverage"
+  },
+  "packageManager": "yarn@3.6.3",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
